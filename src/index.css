@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  display: block;
+  font-family: 'Inter', sans-serif;
+  color: black;
+}
+
+img {
+  display: block;
+}
+
+@import "tailwindcss";
+
+body {
+  font-family: 'Inter', sans-serif;
+}
